@@ -8,9 +8,6 @@
 
 ## ✅ Summary
 
-A quick 1–3 sentence explanation of what the room was about.  
-Example:
-
 > This room introduced the OSI model. The 7 layers
 
 ---

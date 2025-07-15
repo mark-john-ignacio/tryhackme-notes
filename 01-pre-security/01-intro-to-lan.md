@@ -8,9 +8,6 @@
 
 ## ✅ Summary
 
-A quick 1–3 sentence explanation of what the room was about.  
-Example:
-
 > This room introduced the basics of LAN (Local Area Networks), covering how devices communicate within the same network using switches, IPs, and routing. Also, ARP and DHCP
 
 ---

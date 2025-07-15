@@ -2,14 +2,11 @@
 
 **Path:** `Extending Your Network`  
 **Date Completed:** 2025-07-14  
-**Room Link:** [TryHackMe Room URL]
+**Room Link:** [[TryHackMe Room URL\]](https://tryhackme.com/room/extendingyournetwork)
 
 ---
 
 ## ✅ Summary
-
-A quick 1–3 sentence explanation of what the room was about.  
-Example:
 
 > This room introduced networking concepts such as Firewalls, VPN, LAN networking devices and how UDP Packet, ARP Packet, TCP Handshake, and TCP Packet travel in a network
 
