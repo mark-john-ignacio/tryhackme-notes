@@ -1,4 +1,4 @@
-# 🧠 Room Title: [Room Name Here]
+# 🧠 Room Title: [DNS in Detail]
 
 **Path:** `01-Pre-Security`  
 **Date Completed:** 2025-07-15  
